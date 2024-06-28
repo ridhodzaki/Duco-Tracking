@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Duco Tracking</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="appwidget_username">Username</string>
+    <string name="appwidget_balance">Balance</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="about_this_app">I created this application because I have a problems when I wanted to monitor my mining results, even though there had been an application made but it could not meet my needs, and coincidentally several people also experienced the same thing. from all that I tried to make this application which can help everyone to monitor mining results, thank you... \n\nBest Regards \nRikiKun \n\nNote: sorry, this is a translation from Google</string>
+</resources>
